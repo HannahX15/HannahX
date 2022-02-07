@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
-# Learn more about publishing to GitHub Pages at:
+# Learn more about publishing to GitHub Pages at:usethis::use_github()
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
  
 ## About me
 
-My name is Xie Hanxian. I am a senior student from university of Toronto, major in statistics, minor in mathematics and psychology. I have in-depth academic preparation in marketing analysis techniques and good at data collection and analysis of market information feedback.
+My name is Xie Hanxian. I am a senior student from University of Toronto, major in statistics, minor in mathematics and psychology. I have in-depth academic preparation in marketing analysis techniques and good at data collection and analysis of market information feedback.
 
 ## Education
 
